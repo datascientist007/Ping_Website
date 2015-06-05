@@ -1,0 +1,10 @@
+c:\users\ziyaad\documents\visual studio 2012\Projects\Ping Website\Ping Website\bin\Debug\Ping Website.exe.config
+c:\users\ziyaad\documents\visual studio 2012\Projects\Ping Website\Ping Website\bin\Debug\Ping Website.exe
+c:\users\ziyaad\documents\visual studio 2012\Projects\Ping Website\Ping Website\bin\Debug\Ping Website.pdb
+c:\users\ziyaad\documents\visual studio 2012\Projects\Ping Website\Ping Website\bin\Debug\Ping Website.xml
+c:\users\ziyaad\documents\visual studio 2012\Projects\Ping Website\Ping Website\obj\Debug\Ping_Website.Resources.resources
+c:\users\ziyaad\documents\visual studio 2012\Projects\Ping Website\Ping Website\obj\Debug\Ping Website.vbproj.GenerateResource.Cache
+c:\users\ziyaad\documents\visual studio 2012\Projects\Ping Website\Ping Website\obj\Debug\Ping Website.exe
+c:\users\ziyaad\documents\visual studio 2012\Projects\Ping Website\Ping Website\obj\Debug\Ping Website.xml
+c:\users\ziyaad\documents\visual studio 2012\Projects\Ping Website\Ping Website\obj\Debug\Ping Website.pdb
+c:\users\ziyaad\documents\visual studio 2012\Projects\Ping Website\Ping Website\obj\Debug\Ping_Website.PingWebsite.resources
